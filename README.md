@@ -2,4 +2,4 @@
 
 ## Practical Works
 
-- **TP1** : _PCA_ (_K-PCA_,...) and _ICA_ implementations.
+- **TP1** : _PCA_ (_K-PCA_,...) and _ICA_ implementations and analysis.
